@@ -36,7 +36,7 @@ I am an industrial engineer with a strong focus on data analytics and process op
 ## Education
 
 **Bachelor’s Degree in Industrial Engineering**  
-* University of Gaziantep*  
+*University of Gaziantep*  
 *2020 - 2024*
 
 - Focus on data analysis, process optimization, and information technologies.
@@ -48,6 +48,6 @@ I am an industrial engineer with a strong focus on data analytics and process op
 
 - **Email:** salican341@gmail.com
 - **GitHub:** [github.com/alicanuzumcu](https://github.com/alicanuzumcu)
-- **LinkedIn:** [linkedin.com/in/ali-can-üzümcü](linkedin.com/in/ali-can-üzümcü)
+- **LinkedIn:** [https://www.linkedin.com/in/ali-can-üzümcü](https://www.linkedin.com/in/ali-can-üzümcü)
 - **Instagram:** [https://www.instagram.com/alicanuzmcu/](https://www.instagram.com/alicanuzmcu/)
 
