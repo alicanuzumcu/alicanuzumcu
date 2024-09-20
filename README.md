@@ -17,30 +17,10 @@ I am an industrial engineer with a strong focus on data analytics and process op
 - **Version Control:** Git, GitHub
 - **Cloud Computing:** Basics in AWS and Azure 
 
-## Experiences
-
-### EPIC ROBOTICS (Internship)
-**Autonomous Mobile Robot (AMR) Project**  
-*January 2024 - September 2024*  
-- Developed a pallet detection and distance measurement system using YOLOv8 and Intel RealSense cameras.
-- Integrated the system into AMRs for efficient pallet handling in industrial environments.
-- Collaborated with a cross-functional team to improve system accuracy and speed through data-driven approaches.
-
-## Education
-
-**Bachelor’s Degree in Industrial Engineering**  
-*University of Gaziantep*  
-*2020 - 2024*
-
-- Focus on data analysis, process optimization, and information technologies.
-- Graduation Project: Autonomous mobile robot (AMR) system for pallet detection.
-- Multi-Discipline Project: Disassembly line balancing optimization problem for Personal Computers(PC).
-
 
 ## Contact
 
 - **Email:** salican341@gmail.com
-- **GitHub:** [github.com/alicanuzumcu](https://github.com/alicanuzumcu)
 - **LinkedIn:** [https://www.linkedin.com/in/ali-can-üzümcü](https://www.linkedin.com/in/ali-can-üzümcü)
 - **Instagram:** [https://www.instagram.com/alicanuzmcu/](https://www.instagram.com/alicanuzmcu/)
 
