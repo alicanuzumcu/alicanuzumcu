@@ -26,13 +26,6 @@ I am an industrial engineer with a strong focus on data analytics and process op
 - Integrated the system into AMRs for efficient pallet handling in industrial environments.
 - Collaborated with a cross-functional team to improve system accuracy and speed through data-driven approaches.
 
-### Graduation Project
-**Autonomous Mobile Robot for Pallet Detection and Docking**  
-*September 2023 - June 2024*  
-- Designed a deep learning-based solution for AMR systems to autonomously detect pallets.
-- Implemented computer vision techniques for distance measurement between the robot and the pallet.
-- Used Python, YOLOv8, and ROS to successfully integrate the detection system into a real-time environment.
-
 ## Education
 
 **Bachelor’s Degree in Industrial Engineering**  
